@@ -1,4 +1,4 @@
-PRG-test
+RPG-test
 ========
 
 RPG test in JS
